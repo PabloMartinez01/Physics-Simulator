@@ -1,7 +1,7 @@
 # Physics-Simulator
 Simulador de leyes físicas desarrollado en java
 
-##Modo gráfico
+## Modo gráfico
 ```bash
 -m gui -axe y
 ```
